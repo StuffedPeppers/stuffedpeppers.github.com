@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kære Frøken Bech Andersen (fru Horse) & Frøken Marie Bergman Rasmussen
+title: Kære Frøken Bech (fru Horse) & Frøken Marie Bergman Rasmussen
 ---
 
 # {{page.title}}
