@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stuffed Peppers | Blog
+title: The Blog @StuffedPeppers
 ---
 
 <article id="home">

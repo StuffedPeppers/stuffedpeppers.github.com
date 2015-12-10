@@ -9,4 +9,8 @@ title: Introducing Stuffed Peppers
 
 Welcome to the official blog by Stuffed Peppers ApS.
 
+We are very excited to present the cool stuff we are tinkering with at the moment, very soon in the new year. 
 
+Stay tuned for more information.
+
+// The chefs @ Stuffed Peppers
