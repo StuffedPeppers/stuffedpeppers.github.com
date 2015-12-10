@@ -4,7 +4,7 @@ title: Stuffed Peppers | Blog
 ---
 
 <article id="home">
-  <h2>Posts</h2>
+  <!-- <h2>Posts</h2> -->
   <ul class="homelist posts">
     {% for post in site.posts limit:5 %}
       <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
