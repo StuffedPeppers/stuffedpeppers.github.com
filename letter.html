@@ -1,0 +1,12 @@
+---
+layout: default
+title: Et brev til de kære frøkener
+---
+
+<article id="home">
+  <ul class="homelist posts">
+    {% for post in site.letters %}
+      <li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</article>
