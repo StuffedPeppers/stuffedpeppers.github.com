@@ -1,2 +1,6 @@
 # stuffedpeppers.github.io
-Blog
+
+Stuffed Peppers - Official blog
+
+Contains both technical and non-technical information. Stay tuned for more.
+
