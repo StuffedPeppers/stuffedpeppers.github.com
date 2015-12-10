@@ -1,2 +1,2 @@
-# stuffedpeppers.github.com
+# stuffedpeppers.github.io
 Blog
