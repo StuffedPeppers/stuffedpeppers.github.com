@@ -909,9 +909,9 @@ article .posts {
     article .posts li a {
       display: table-cell;
       vertical-align: middle;
+      width: 81%;
       padding: 8px 1% 8px 3%;
       text-decoration: none;
-      white-space: nowrap;
       font-weight: 900; }
       @media only screen and (min-width: 620px) {
         article .posts li a {
