@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Stuffed Peppers | Blog</title>
+ <link href="http://stuffedpeppers.github.com/atom.xml" rel="self"/>
+ <link href="http://stuffedpeppers.github.com/"/>
+ <updated>2016-02-16T12:41:44+01:00</updated>
+ <id>http://stuffedpeppers.github.com/</id>
+ <author>
+   <name>Stuffed Peppers</name>
+   <!-- <email>videlalvaro@gmail.com</email> -->
+ </author>
+
+ 
+ <entry>
+   <title>Introducing Stuffed Peppers</title>
+   <link href="http://stuffedpeppers.github.com/2015/12/intruducing-stuffedpeppers.html"/>
+   <updated>2015-12-10T00:00:00+01:00</updated>
+   <id>http://stuffedpeppers.github.com/2015/12/intruducing-stuffedpeppers</id>
+   <content type="html">&lt;h1 id=&quot;introducing-stuffed-peppers&quot;&gt;Introducing Stuffed Peppers&lt;/h1&gt;
+
+&lt;p&gt;&lt;span class=&quot;meta&quot;&gt;December 10 2015&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Welcome to the official blog by Stuffed Peppers ApS.&lt;/p&gt;
+
+&lt;p&gt;We are very excited to present the cool stuff we are tinkering with at the moment, very soon in the new year.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for more information.&lt;/p&gt;
+
+&lt;p&gt;// The chefs @ Stuffed Peppers&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
